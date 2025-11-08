@@ -133,7 +133,8 @@ O sistema proposto visa **automatizar e digitalizar** este processo, permitindo 
 
 ## 3.2. BPMN
 
-![Diagrama BPMN](bpmn.png)
+![Diagrama BPMN](https://raw.githubusercontent.com/Goncalo04Costa/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/main/BPMN.png)
+
 
 
 ## 3.3. Benefícios do Processo Digitalizado
