@@ -1,16 +1,16 @@
-using FuncionariosService.Data;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
+using FuncionariosService.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configurar Kestrel com porta fixa HTTP
 builder.WebHost.ConfigureKestrel(options =>
 {
-    options.ListenAnyIP(5003); // HTTP
+    options.ListenAnyIP(5004); // HTTP
+    //options.ListenAnyIP(5003, listenOptions => listenOptions.UseHttps()); // HTTPS
 });
 
-// InMemory DB
-builder.Services.AddDbContext<FuncionariosContext>(opt => opt.UseInMemoryDatabase("FuncionariosDB"));
+builder.Services.AddDbContext<FuncionariosContext>(opt => opt.UseInMemoryDatabase("FuncionarioDB"));
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -24,7 +24,7 @@ if (app.Environment.IsDevelopment())
 }
 
 // Rota raiz amigável
-app.MapGet("/", () => "Serviço Funcionários ativo!");
+app.MapGet("/", () => "Serviço Utentes ativo!");
 
 app.MapControllers();
 app.Run();

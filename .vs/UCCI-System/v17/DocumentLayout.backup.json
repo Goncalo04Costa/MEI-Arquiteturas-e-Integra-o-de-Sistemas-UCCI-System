@@ -1,7 +1,60 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\utentesservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|solutionrelative:utentesservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\utentesservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|solutionrelative:utentesservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\utentesservice\\utentesservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|solutionrelative:utentesservice\\utentesservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A0E7AB-3335-434C-9AED-FD348ECEBDF1}|FuncionariosService\\FuncionariosService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\funcionariosservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0A0E7AB-3335-434C-9AED-FD348ECEBDF1}|FuncionariosService\\FuncionariosService.csproj|solutionrelative:funcionariosservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A0E7AB-3335-434C-9AED-FD348ECEBDF1}|FuncionariosService\\FuncionariosService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\funcionariosservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A0E7AB-3335-434C-9AED-FD348ECEBDF1}|FuncionariosService\\FuncionariosService.csproj|solutionrelative:funcionariosservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\consultasservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|solutionrelative:consultasservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\consultasservice\\consultasservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|solutionrelative:consultasservice\\consultasservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\consultasservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|solutionrelative:consultasservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\consultasservice\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|solutionrelative:consultasservice\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\consultasservice\\data\\consultascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|solutionrelative:consultasservice\\data\\consultascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A0E7AB-3335-434C-9AED-FD348ECEBDF1}|FuncionariosService\\FuncionariosService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\funcionariosservice\\data\\funcionariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A0E7AB-3335-434C-9AED-FD348ECEBDF1}|FuncionariosService\\FuncionariosService.csproj|solutionrelative:funcionariosservice\\data\\funcionariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\utentesservice\\data\\utentescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|solutionrelative:utentesservice\\data\\utentescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\ucci-system\\utentesservice\\controllers\\utentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|solutionrelative:utentesservice\\controllers\\utentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +75,183 @@
             {
               "$type": "Bookmark",
               "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UtentesService.http",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\UtentesService\\UtentesService.http",
+              "RelativeDocumentMoniker": "UtentesService\\UtentesService.http",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\UtentesService\\UtentesService.http",
+              "RelativeToolTip": "UtentesService\\UtentesService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-08T19:11:28.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\UtentesService\\appsettings.json",
+              "RelativeDocumentMoniker": "UtentesService\\appsettings.json",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\UtentesService\\appsettings.json",
+              "RelativeToolTip": "UtentesService\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T19:11:25.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\FuncionariosService\\appsettings.json",
+              "RelativeDocumentMoniker": "FuncionariosService\\appsettings.json",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\FuncionariosService\\appsettings.json",
+              "RelativeToolTip": "FuncionariosService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T16:55:38.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultasService.http",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\ConsultasService\\ConsultasService.http",
+              "RelativeDocumentMoniker": "ConsultasService\\ConsultasService.http",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\ConsultasService\\ConsultasService.http",
+              "RelativeToolTip": "ConsultasService\\ConsultasService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-08T16:51:07.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\ConsultasService\\appsettings.json",
+              "RelativeDocumentMoniker": "ConsultasService\\appsettings.json",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\ConsultasService\\appsettings.json",
+              "RelativeToolTip": "ConsultasService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T16:51:04.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\ConsultasService\\Models\\Consulta.cs",
+              "RelativeDocumentMoniker": "ConsultasService\\Models\\Consulta.cs",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\ConsultasService\\Models\\Consulta.cs",
+              "RelativeToolTip": "ConsultasService\\Models\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:49:42.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FuncionarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\FuncionariosService\\Data\\FuncionarioContext.cs",
+              "RelativeDocumentMoniker": "FuncionariosService\\Data\\FuncionarioContext.cs",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\FuncionariosService\\Data\\FuncionarioContext.cs",
+              "RelativeToolTip": "FuncionariosService\\Data\\FuncionarioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:49:34.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\FuncionariosService\\Program.cs",
+              "RelativeDocumentMoniker": "FuncionariosService\\Program.cs",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\FuncionariosService\\Program.cs",
+              "RelativeToolTip": "FuncionariosService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:49:31.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UtentesContext.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\UtentesService\\Data\\UtentesContext.cs",
+              "RelativeDocumentMoniker": "UtentesService\\Data\\UtentesContext.cs",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\UtentesService\\Data\\UtentesContext.cs",
+              "RelativeToolTip": "UtentesService\\Data\\UtentesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:49:28.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\UtentesService\\Program.cs",
+              "RelativeDocumentMoniker": "UtentesService\\Program.cs",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\UtentesService\\Program.cs",
+              "RelativeToolTip": "UtentesService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:48:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UtentesController.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\UtentesService\\Controllers\\UtentesController.cs",
+              "RelativeDocumentMoniker": "UtentesService\\Controllers\\UtentesController.cs",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\UtentesService\\Controllers\\UtentesController.cs",
+              "RelativeToolTip": "UtentesService\\Controllers\\UtentesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:48:26.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsultasContext.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\ConsultasService\\Data\\ConsultasContext.cs",
+              "RelativeDocumentMoniker": "ConsultasService\\Data\\ConsultasContext.cs",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\ConsultasService\\Data\\ConsultasContext.cs",
+              "RelativeToolTip": "ConsultasService\\Data\\ConsultasContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:48:24.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\ConsultasService\\Program.cs",
+              "RelativeDocumentMoniker": "ConsultasService\\Program.cs",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\ConsultasService\\Program.cs",
+              "RelativeToolTip": "ConsultasService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:45:25.571Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -6,11 +6,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.WebHost.ConfigureKestrel(options =>
 {
-    options.ListenAnyIP(5001); // HTTP
+    options.ListenAnyIP(5004); // HTTP
     //options.ListenAnyIP(5003, listenOptions => listenOptions.UseHttps()); // HTTPS
 });
 
-builder.Services.AddDbContext<ConsultasService>(opt => opt.UseInMemoryDatabase("ConsutlasDB"));
+builder.Services.AddDbContext<ConsultasContext>(opt => opt.UseInMemoryDatabase("UtentesDB"));
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
