@@ -133,6 +133,7 @@ O sistema proposto visa **automatizar e digitalizar** este processo, permitindo 
 
 ## 3.2. BPMN
 
+![Diagrama BPMN](bpmn.png)
 
 
 ## 3.3. Benefícios do Processo Digitalizado
