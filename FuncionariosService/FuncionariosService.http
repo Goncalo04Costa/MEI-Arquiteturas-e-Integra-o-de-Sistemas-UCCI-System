@@ -1,0 +1,22 @@
+@FuncionariosService_HostAddress = https://localhost:5002
+
+# ==========================
+# Funcionários - Operações
+# ==========================
+
+# Obter todos os funcionários
+GET {{FuncionariosService_HostAddress}}/api/funcionarios
+Accept: application/json
+
+###
+
+# Criar novo funcionário
+POST {{FuncionariosService_HostAddress}}/api/funcionarios
+Content-Type: application/json
+
+{
+  "nome": "Maria Silva",
+  "cargo": "Enfermeira",
+  "email": "maria.silva@email.com",
+  "telefone": "912345678"
+}

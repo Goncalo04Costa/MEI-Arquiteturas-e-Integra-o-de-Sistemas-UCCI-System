@@ -1,0 +1,22 @@
+@UtentesService_HostAddress = https://localhost:5003
+
+# ==========================
+# Utentes - Operações
+# ==========================
+
+# Obter todos os utentes
+GET {{UtentesService_HostAddress}}/api/utentes
+Accept: application/json
+
+###
+
+# Criar novo utente
+POST {{UtentesService_HostAddress}}/api/utentes
+Content-Type: application/json
+
+{
+  "nome": "João Pereira",
+  "email": "joao.pereira@email.com",
+  "telefone": "912345679",
+  "dataNascimento": "1990-05-20"
+}

@@ -1,0 +1,32 @@
+@ConsultasService_HostAddress = https://localhost:5001
+
+### Obter todas as consultas
+GET {{ConsultasService_HostAddress}}/api/consultas
+Accept: application/json
+
+### Criar nova consulta
+POST {{ConsultasService_HostAddress}}/api/consultas
+Content-Type: application/json
+
+{
+  "dataHora": "2025-11-07T10:00:00",
+  "utenteId": 1,
+  "funcionarioId": 2,
+  "estado": "Agendada",
+  "observacoes": "Primeira consulta"
+}
+
+### Atualizar consulta
+PUT {{ConsultasService_HostAddress}}/api/consultas/1
+Content-Type: application/json
+
+{
+  "dataHora": "2025-11-07T11:00:00",
+  "utenteId": 1,
+  "funcionarioId": 2,
+  "estado": "Reagendada",
+  "observacoes": "Horário alterado"
+}
+
+### Apagar consulta
+DELETE {{ConsultasService_HostAddress}}/api/consultas/1
