@@ -1,47 +1,92 @@
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\appsettings.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\FuncionariosService.staticwebassets.endpoints.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\FuncionariosService.exe
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\FuncionariosService.deps.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\FuncionariosService.runtimeconfig.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\FuncionariosService.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\FuncionariosService.pdb
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\FuncionariosService.csproj.AssemblyReference.cache
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\FuncionariosService.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\FuncionariosService.AssemblyInfoInputs.cache
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\FuncionariosService.AssemblyInfo.cs
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\FuncionariosService.csproj.CoreCompileInputs.cache
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\FuncionariosService.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\FuncionariosService.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\scopedcss\bundle\FuncionariosService.styles.css
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\staticwebassets.build.json.cache
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\Funciona.18E9C395.Up2Date
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\FuncionariosService.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\refint\FuncionariosService.dll
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\FuncionariosService.pdb
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\FuncionariosService.genruntimeconfig.cache
-C:\Users\gonca\OneDrive\Ambiente de Trabalho\MEI\1ano\Arquiteturas e Integração de Sistemas\UCCI-System\FuncionariosService\obj\Debug\net8.0\ref\FuncionariosService.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/appsettings.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/FuncionariosService.staticwebassets.endpoints.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/FuncionariosService.exe
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/FuncionariosService.deps.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/FuncionariosService.runtimeconfig.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/FuncionariosService.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/FuncionariosService.pdb
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.csproj.AssemblyReference.cache
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/rpswa.dswa.cache.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.AssemblyInfoInputs.cache
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.AssemblyInfo.cs
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.csproj.CoreCompileInputs.cache
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/rjimswa.dswa.cache.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/scopedcss/bundle/FuncionariosService.styles.css
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets.build.json.cache
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/Funciona.18E9C395.Up2Date
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/refint/FuncionariosService.dll
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.pdb
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.genruntimeconfig.cache
+C:/Users/gonca/OneDrive/Ambiente de Trabalho/MEI/1ano/Arquiteturas e Integração de Sistemas/UCCI-System/FuncionariosService/obj/Debug/net8.0/ref/FuncionariosService.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/appsettings.Development.json
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/appsettings.json
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/FuncionariosService
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/FuncionariosService.deps.json
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/FuncionariosService.runtimeconfig.json
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/FuncionariosService.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/FuncionariosService.pdb
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.csproj.AssemblyReference.cache
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.AssemblyInfoInputs.cache
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.AssemblyInfo.cs
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.csproj.CoreCompileInputs.cache
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.MvcApplicationPartsAssemblyInfo.cs
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.MvcApplicationPartsAssemblyInfo.cache
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.sourcelink.json
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets.build.json
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets.development.json
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets/msbuild.FuncionariosService.Microsoft.AspNetCore.StaticWebAssets.props
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets/msbuild.build.FuncionariosService.props
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FuncionariosService.props
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FuncionariosService.props
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/staticwebassets.pack.json
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/scopedcss/bundle/FuncionariosService.styles.css
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.csproj.CopyComplete
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/refint/FuncionariosService.dll
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.pdb
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/FuncionariosService.genruntimeconfig.cache
+/home/tiago/Projects/MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System/FuncionariosService/obj/Debug/net8.0/ref/FuncionariosService.dll

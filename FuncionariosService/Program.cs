@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.WebHost.ConfigureKestrel(options =>
 {
-    options.ListenAnyIP(5004); // HTTP
+    options.ListenAnyIP(5001); // HTTP
     //options.ListenAnyIP(5003, listenOptions => listenOptions.UseHttps()); // HTTPS
 });
 
@@ -23,8 +23,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// Rota raiz amigável
-app.MapGet("/", () => "Serviço Utentes ativo!");
+// Rota raiz amigï¿½vel
+app.MapGet("/", () => "Serviï¿½o Utentes ativo!");
 
 app.MapControllers();
 app.Run();

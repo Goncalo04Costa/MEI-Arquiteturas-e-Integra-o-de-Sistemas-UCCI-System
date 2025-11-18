@@ -1,0 +1,28 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/funcionarios",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [{ "Host": "localhost", "Port": 5001 }],
+      "UpstreamPathTemplate": "/funcionarios",
+      "UpstreamHttpMethod": ["GET", "POST"]
+    },
+    {
+      "DownstreamPathTemplate": "/api/utentes",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [{ "Host": "localhost", "Port": 5002 }],
+      "UpstreamPathTemplate": "/utentes",
+      "UpstreamHttpMethod": ["GET", "POST"]
+    },
+    {
+      "DownstreamPathTemplate": "/api/consultas",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [{ "Host": "localhost", "Port": 5003 }],
+      "UpstreamPathTemplate": "/consultas",
+      "UpstreamHttpMethod": ["GET", "POST"]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5000"
+  }
+}

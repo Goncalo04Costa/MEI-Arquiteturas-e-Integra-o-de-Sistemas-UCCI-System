@@ -4,17 +4,17 @@ using UtentesService.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Configuração do servidor Kestrel - apenas HTTP
+// Configuraï¿½ï¿½o do servidor Kestrel - apenas HTTP
 builder.WebHost.ConfigureKestrel(options =>
 {
-    options.ListenAnyIP(5003); // Porta HTTP
+    options.ListenAnyIP(5002); // Porta HTTP
 });
 
-// Configuração do contexto da base de dados (InMemory)
+// Configuraï¿½ï¿½o do contexto da base de dados (InMemory)
 builder.Services.AddDbContext<UtentesContext>(opt =>
     opt.UseInMemoryDatabase("UtentesDB"));
 
-// Serviços da API
+// Serviï¿½os da API
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -28,11 +28,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// Rota raiz amigável (verifica se o serviço está ativo)
-app.MapGet("/", () => "Serviço Utentes ativo!");
+// Rota raiz amigï¿½vel (verifica se o serviï¿½o estï¿½ ativo)
+app.MapGet("/", () => "Serviï¿½o Utentes ativo!");
 
 // Mapeamento dos controladores
 app.MapControllers();
 
-// Inicia a aplicação
+// Inicia a aplicaï¿½ï¿½o
 app.Run();
