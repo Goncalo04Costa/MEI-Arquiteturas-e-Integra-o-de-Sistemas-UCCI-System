@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\UCCI-System\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\mei-arquiteturas-e-integra-o-de-sistemas-ucci-system\\utentesservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C36662A7-397A-42BD-8292-256672E298B1}|UtentesService\\UtentesService.csproj|solutionrelative:utentesservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A0E7AB-3335-434C-9AED-FD348ECEBDF1}|FuncionariosService\\FuncionariosService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\mei-arquiteturas-e-integra-o-de-sistemas-ucci-system\\funcionariosservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0A0E7AB-3335-434C-9AED-FD348ECEBDF1}|FuncionariosService\\FuncionariosService.csproj|solutionrelative:funcionariosservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\mei-arquiteturas-e-integra-o-de-sistemas-ucci-system\\consultasservice\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|solutionrelative:consultasservice\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\mei-arquiteturas-e-integra-o-de-sistemas-ucci-system\\consultasservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|solutionrelative:consultasservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\mei-arquiteturas-e-integra-o-de-sistemas-ucci-system\\consultasservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{588E833B-4242-474E-B7D5-AA9DF7189D06}|ConsultasService\\ConsultasService.csproj|solutionrelative:consultasservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110F43D0-D985-46A7-AA92-B023896149A8}|ApiGateway\\ApiGateway.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\mei-arquiteturas-e-integra-o-de-sistemas-ucci-system\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{110F43D0-D985-46A7-AA92-B023896149A8}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{110F43D0-D985-46A7-AA92-B023896149A8}|ApiGateway\\ApiGateway.csproj|c:\\users\\gonca\\onedrive\\ambiente de trabalho\\mei\\1ano\\arquiteturas e integra\u00E7\u00E3o de sistemas\\mei-arquiteturas-e-integra-o-de-sistemas-ucci-system\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{110F43D0-D985-46A7-AA92-B023896149A8}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +38,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\UtentesService\\appsettings.json",
+              "RelativeDocumentMoniker": "UtentesService\\appsettings.json",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\UtentesService\\appsettings.json",
+              "RelativeToolTip": "UtentesService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T20:26:20.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\FuncionariosService\\appsettings.json",
+              "RelativeDocumentMoniker": "FuncionariosService\\appsettings.json",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\FuncionariosService\\appsettings.json",
+              "RelativeToolTip": "FuncionariosService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T20:25:54.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultasController.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\ConsultasService\\Controllers\\ConsultasController.cs",
+              "RelativeDocumentMoniker": "ConsultasService\\Controllers\\ConsultasController.cs",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\ConsultasService\\Controllers\\ConsultasController.cs",
+              "RelativeToolTip": "ConsultasService\\Controllers\\ConsultasController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:25:26.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\ConsultasService\\Program.cs",
+              "RelativeDocumentMoniker": "ConsultasService\\Program.cs",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\ConsultasService\\Program.cs",
+              "RelativeToolTip": "ConsultasService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:20:58.322Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -22,6 +103,49 @@
             {
               "$type": "Bookmark",
               "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\ConsultasService\\appsettings.json",
+              "RelativeDocumentMoniker": "ConsultasService\\appsettings.json",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\ConsultasService\\appsettings.json",
+              "RelativeToolTip": "ConsultasService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T20:20:06.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T20:03:34.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\gonca\\OneDrive\\Ambiente de Trabalho\\MEI\\1ano\\Arquiteturas e Integra\u00E7\u00E3o de Sistemas\\MEI-Arquiteturas-e-Integra-o-de-Sistemas-UCCI-System\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T20:03:24.811Z",
+              "EditorCaption": ""
             }
           ]
         }

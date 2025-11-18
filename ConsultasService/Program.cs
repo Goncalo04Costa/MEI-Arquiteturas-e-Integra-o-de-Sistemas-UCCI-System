@@ -4,19 +4,24 @@ using ConsultasService.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configurar Kestrel
 builder.WebHost.ConfigureKestrel(options =>
 {
     options.ListenAnyIP(5003); // HTTP
-    //options.ListenAnyIP(5003, listenOptions => listenOptions.UseHttps()); // HTTPS
 });
 
-builder.Services.AddDbContext<ConsultasContext>(opt => opt.UseInMemoryDatabase("UtentesDB"));
+// Configurar DbContext para PostgreSQL do Neon
+builder.Services.AddDbContext<ConsultasContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("ConsultasDatabase")));
+
+// Adicionar serviços do ASP.NET
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+// Configuração do Swagger
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -24,7 +29,7 @@ if (app.Environment.IsDevelopment())
 }
 
 // Rota raiz amigável
-app.MapGet("/", () => "Serviço Utentes ativo!");
+app.MapGet("/", () => "Serviço Consultas ativo!");
 
 app.MapControllers();
 app.Run();
